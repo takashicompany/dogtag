@@ -126,7 +126,7 @@ LED underglow is also available.
 トッププレートを取り付けてネジで止める  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8876.jpg?raw=true" width="600px">
 
-# 6. Pro Micro
+### 6. Pro Micro
 
 コンスルーとPro Micro　　
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8879.jpg?raw=true" width="600px">
@@ -143,18 +143,26 @@ Pro Microにコンスルーを挿す　　
 もう片方も  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8886.jpg?raw=true" width="600px">
 
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+### 7. キースイッチのはんだ付け
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8887.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8889.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8890.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8891jpg?raw=true" width="600px">
+
+MXソケットを使う場合  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8894.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8896.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8897.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8898.jpg?raw=true" width="600px">
+
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8900.jpg?raw=true" width="600px">
+
+### 8. ゴム足を付ける
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8902.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8903.jpg?raw=true" width="600px">
