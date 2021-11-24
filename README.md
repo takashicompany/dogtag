@@ -44,6 +44,117 @@ LED underglow is also available.
 |ロータリーエンコーダ|1||
 |LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
 
-### 組み立て方
+## 組み立て方
+
+### 1. トッププレートとPCBを切り離す
 
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8835.jpg?raw=true" width="600px">
+
+切り離す  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8838.jpg?raw=true" width="600px">
+
+必要に応じてヤスリがけをする  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8840.jpg?raw=true" width="600px">
+
+### 2. ダイオードをはんだ付けする  
+
+ダイオードの向きを確認  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8846.jpg?raw=true" width="600px">
+
+ダイオードの足を曲げる  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8847.jpg?raw=true" width="600px">
+
+ダイオードをはんだ付け穴に挿す  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8850.jpg?raw=true" width="600px">
+
+基板をひっくり返す  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8851.jpg?raw=true" width="600px">
+
+はんだ付けを行う  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8853.jpg?raw=true" width="600px">
+
+９箇所をはんだ付けする  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8855.jpg?raw=true" width="600px">
+
+### 3. リセットスイッチの取り付け
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8856.jpg?raw=true" width="600px">
+
+取り付け位置を確認する  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8857.jpg?raw=true" width="600px">
+
+リセットスイッチを挿し込む  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8859.jpg?raw=true" width="600px">
+
+基板をひっくり返す  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8860.jpg?raw=true" width="600px">
+
+はんだ付けをする  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8861.jpg?raw=true" width="600px">
+
+平らにする
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8862.jpg?raw=true" width="600px">
+
+### 4. TRRSソケットの取り付け
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8863.jpg?raw=true" width="600px">
+
+取り付け位置を確認する  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8864.jpg?raw=true" width="600px">
+
+取り付ける  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8865.jpg?raw=true" width="600px">
+
+マスキングテープなどで貼り付ける  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8866.jpg?raw=true" width="600px">
+
+ひっくり返してはんだ付けを行う  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8867.jpg?raw=true" width="600px">
+
+### 5. トッププレートの取り付け
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8868.jpg?raw=true" width="600px">
+
+ネジとスペーサー  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8871.jpg?raw=true" width="600px">
+
+赤丸の位置に挿す  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8873.jpg?raw=true" width="600px">
+
+ネジで止める  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8874.jpg?raw=true" width="600px">
+
+トッププレートを取り付けてネジで止める  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8876.jpg?raw=true" width="600px">
+
+# 6. Pro Micro
+
+コンスルーとPro Micro　　
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8879.jpg?raw=true" width="600px">
+
+Pro Microにコンスルーを挿す　　
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8880.jpg?raw=true" width="600px">
+
+コンスルーでPro MicroとPCBをつなげる  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8883.jpg?raw=true" width="600px">
+
+はんだ付けを行う  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8885.jpg?raw=true" width="600px">
+
+もう片方も  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8886.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
