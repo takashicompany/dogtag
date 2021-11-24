@@ -43,3 +43,7 @@ LED underglow is also available.
 |MXソケット|9|キースイッチの付け替えが可能になります。|
 |ロータリーエンコーダ|1||
 |LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
+
+### 組み立て方
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8835.jpg?raw=true" width="600px">
