@@ -96,67 +96,79 @@ LED underglow is also available.
 リセットスイッチはファームウェアを書き込む際などに使用します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8856.jpg?raw=true" width="600px">
 
-取り付け位置はキーボードの手前の
+取り付け位置はキーボードの手前の「RESET」の印刷がされている箇所です。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8857.jpg?raw=true" width="600px">
 
-リセットスイッチを挿し込む  
+穴にリセットスイッチの足を挿し込みます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8859.jpg?raw=true" width="600px">
 
-基板をひっくり返す  
+基板をひっくり返してリセットスイッチの足が穴から出ていることを確認します。   
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8860.jpg?raw=true" width="600px">
 
-はんだ付けをする  
+はんだ付けを行います。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8861.jpg?raw=true" width="600px">
 
-平らにする  
+はんだ付けを済ませたらニッパーなどではんだ付け部分を切り取り、可能な限り平らにするとキーボードが安定しやすくなります。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8862.jpg?raw=true" width="600px">
 
 ### 4. TRRSソケットの取り付け
 
+TRRSソケットは、分割キーボードとして利用する場合にキーボード同士を繋げるために使います。  
+単体で使う場合は使用しませんが、気が変わって両手分欲しくなっても良いように取り付けましょう笑  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8863.jpg?raw=true" width="600px">
 
-取り付け位置を確認する  
+取り付け位置は、基板手前側の「TRRS」と印刷されている箇所です。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8864.jpg?raw=true" width="600px">
 
-取り付ける  
+穴に沿って挿し込みます。  
+いくつか穴が余ってしまうのは、右手側で利用する際の穴です。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8865.jpg?raw=true" width="600px">
 
-マスキングテープなどで貼り付ける  
+はんだ付けの際にひっくり返す時にTRRSソケットが抜けてしまう場合は、マスキングテープなどで固定すると良いです。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8866.jpg?raw=true" width="600px">
 
-ひっくり返してはんだ付けを行う  
+ひっくり返して、リセットスイッチと同様にはんだ付けを行います。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8867.jpg?raw=true" width="600px">
 
-### 5. トッププレートの取り付け
+### 5. トッププレートの取り付け  
+
+トッププレートを取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8868.jpg?raw=true" width="600px">
 
-ネジとスペーサー  
+取り付けにはネジとスペーサーを使用します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8871.jpg?raw=true" width="600px">
 
-赤丸の位置に挿す  
+赤丸の位置に、スペーサーをネジで固定します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8873.jpg?raw=true" width="600px">
 
-ネジで止める  
+このように5箇所にスペーサーを取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8874.jpg?raw=true" width="600px">
 
-トッププレートを取り付けてネジで止める  
+最後にトッププレートを取り付けます。  
+スペーサーとトッププレートをネジで固定します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8876.jpg?raw=true" width="600px">
 
-### 6. Pro Micro
+### 6. Pro Microの取り付け。
 
-コンスルーとPro Micro　　
+Pro Microはキーボードの頭脳となる部分です。  
+キースイッチが押されたことを検知して、PCにキーの入力を伝えます。  
+Pro MicroをPCBに固定する際は[コンスル](https://shop.yushakobo.jp/products/31)ーという部品を用いるのがオススメです。  
+コンスルーを使うと、Pro Microを基板から楽に取り外せるので、メンテナンスがしやすかったり、他の自作キーボードに使い回すことが容易になります。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8879.jpg?raw=true" width="600px">
 
-Pro Microにコンスルーを挿す　　
+Pro Microにコンスルーを挿します。  
+左手側の場合はPro Microのチップなどが配置されている側が裏になるようにしてください。  
+(右手側の場合は逆にチップ側が表になるようにしてください。)  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8880.jpg?raw=true" width="600px">
 
-コンスルーでPro MicroとPCBをつなげる  
+コンスルーでPro MicroとPCBを接続します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8883.jpg?raw=true" width="600px">
 
-はんだ付けを行う  
+Pro Microをはんだ付けします。  
+トッププレートとPro Microがぶつかってしまうことがあるので、正しく挿されているか側面から確認するとミスを避けられます。 
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8885.jpg?raw=true" width="600px">
 
-もう片方も  
+もう片方もはんだ付けします。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8886.jpg?raw=true" width="600px">
 
 ### 7. キースイッチのはんだ付け
