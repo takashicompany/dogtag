@@ -92,7 +92,7 @@ LED underglow is also available.
 はんだ付けをする  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8861.jpg?raw=true" width="600px">
 
-平らにする
+平らにする  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8862.jpg?raw=true" width="600px">
 
 ### 4. TRRSソケットの取り付け
