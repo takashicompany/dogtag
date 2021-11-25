@@ -46,41 +46,57 @@ LED underglow is also available.
 
 ## 組み立て方
 
+以下の組み立て方は左手用になります。
+右手側の場合は基板を裏返して組み立ててください。
+
 ### 1. トッププレートとPCBを切り離す
 
+トッププレートとPCBが結合しているので、これを切り離します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8835.jpg?raw=true" width="600px">
 
-切り離す  
+基板を接続部の折れ線に沿って曲げると切り離せます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8838.jpg?raw=true" width="600px">
 
-必要に応じてヤスリがけをする  
+残った接続部分はペンチなどで折ると取りやすいです。  
+折った場所をヤスリがけすると仕上がりがキレイになります。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8840.jpg?raw=true" width="600px">
 
 ### 2. ダイオードをはんだ付けする  
 
-ダイオードの向きを確認  
+ダイオードを取り付けます。  
+余談ですが、ダイオードは電流の向きを制御する役割があります。  
+自作キーボードでは主にキーが同時に押されたことを検知する役割があります。  
+以上のことは知らなくても当キーボードは完成させられますのでご安心ください🙏  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8846.jpg?raw=true" width="600px">
 
-ダイオードの足を曲げる  
+ダイオードが基板のはんだ付け穴に入るように足を曲げます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8847.jpg?raw=true" width="600px">
 
-ダイオードをはんだ付け穴に挿す  
+ダイオードをはんだ付け穴に挿します。  
+ダイオードの端の黒い線が、基板の矢印(|◁)側になるようにPCBに挿します。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8850.jpg?raw=true" width="600px">
 
-基板をひっくり返す  
+はんだ付けをするために基板を反対側にします。  
+この時、ダイオードの足を少し開くとPCBから抜けづらくなります。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8851.jpg?raw=true" width="600px">
 
-はんだ付けを行う  
+はんだ付けを行います。  
+はんだ付けがはじめての方は[こちら](https://www.youtube.com/watch?v=iCJXT3d4140)の動画を参考に進めるとスムーズに行くかと思います。  
+(難しそうなイメージがありますが、要はくっついていれば良いのです)
+
+はんだ付けが済んだら、ニッパーで足を切ります。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8853.jpg?raw=true" width="600px">
 
-９箇所をはんだ付けする  
+合計9箇所をはんだ付けします。  
+**ダイオードの向きが写真と異なっていないかを確認してください。**
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8855.jpg?raw=true" width="600px">
 
 ### 3. リセットスイッチの取り付け
 
+リセットスイッチはファームウェアを書き込む際などに使用します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8856.jpg?raw=true" width="600px">
 
-取り付け位置を確認する  
+取り付け位置はキーボードの手前の
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8857.jpg?raw=true" width="600px">
 
 リセットスイッチを挿し込む  
