@@ -140,7 +140,7 @@ TRRSソケットは、分割キーボードとして利用する場合にキー�
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8871.jpg?raw=true" width="600px">
 
 赤丸の位置に、スペーサーをネジで固定します。  
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8873.jpg?raw=true" width="600px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8873b.jpg?raw=true" width="600px">
 
 このように5箇所にスペーサーを取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8874.jpg?raw=true" width="600px">
