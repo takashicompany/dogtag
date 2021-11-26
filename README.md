@@ -84,7 +84,7 @@ LED underglow is also available.
 はんだ付けがはじめての方は[こちら](https://www.youtube.com/watch?v=iCJXT3d4140)の動画を参考に進めるとスムーズに行くかと思います。  
 (難しそうなイメージがありますが、要はくっついていれば良いのです)
 
-はんだ付けが済んだら、ニッパーで足を切ります。
+はんだ付けが済んだら、ニッパーで足を切ります。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8853.jpg?raw=true" width="600px">
 
 合計9箇所をはんだ付けします。  
@@ -156,6 +156,8 @@ Pro MicroをPCBに固定する際は[コンスル](https://shop.yushakobo.jp/pro
 コンスルーを使うと、Pro Microを基板から楽に取り外せるので、メンテナンスがしやすかったり、他の自作キーボードに使い回すことが容易になります。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8879.jpg?raw=true" width="600px">
 
+[コンスルーがはんだ付けされたものが遊舎工房さんで販売されている](https://shop.yushakobo.jp/products/a0500ph?variant=37665498497185)ので、難しそう…と感じた方は購入するのもアリだと思います。
+
 Pro Microにコンスルーを挿します。  
 左手側の場合はPro Microのチップなどが配置されている側が裏になるようにしてください。  
 (右手側の場合は逆にチップ側が表になるようにしてください。)  
@@ -168,8 +170,9 @@ Pro Microをはんだ付けします。
 トッププレートとPro Microがぶつかってしまうことがあるので、正しく挿されているか側面から確認するとミスを避けられます。 
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8885.jpg?raw=true" width="600px">
 
-もう片方もはんだ付けします。
+もう片方もはんだ付けします。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8886.jpg?raw=true" width="600px">
+
 
 ### 7. キースイッチのはんだ付け
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8887.jpg?raw=true" width="600px">
