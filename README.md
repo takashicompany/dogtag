@@ -218,3 +218,12 @@ MXソケットをピンセットで抑えながら、予備ハンダを溶かし
 
 底面に取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8903.jpg?raw=true" width="600px">
+
+### 9. キーキャップを取り付ける
+
+最後にキーキャップを取り付けて完成です。  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/05.jpg?raw=true" width="600px">
+
+### 10. ファームウェアの書き込み
+
+
