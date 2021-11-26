@@ -226,4 +226,8 @@ MXソケットをピンセットで抑えながら、予備ハンダを溶かし
 
 ### 10. ファームウェアの書き込み
 
+ファームウェアは[Remap](https://remap-keys.app/catalog/1vSyBflE9L18u1AavBH4/firmware)から書き込めます。  
 
+Remapでのキーマップ
+## 必要な部品ｎお
+## 必要な部品
