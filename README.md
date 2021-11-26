@@ -14,6 +14,8 @@ It is reversible and can be used as a split macro pad by connecting two units wi
 Other features include a rotary encoder and MX sockets for hot-swapping of keyswitches.  
 LED underglow is also available.  
 
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/04.jpg?raw=true" width="600px">
+
 ## 必要な部品
 
 ### キットに同梱されているもの
@@ -22,8 +24,7 @@ LED underglow is also available.
 |PCB|1|リードタイプと表面実装のダイオードに対応。|
 |ダイオード（リードタイプ)|9||
 |m2スペーサー(3.5mm)|5||
-|m2ネジ(3mm)|5||
-|m2ネジ(4mm)|5||
+|m2ネジ(3mm)|10||
 |リセットスイッチ|1||
 |TRRSソケット|1||
 |滑り止めシール|4||
@@ -41,7 +42,7 @@ LED underglow is also available.
 |:--|:--|:--|
 |コンスルー|2|Pro Microに取り付けます。|
 |MXソケット|9|キースイッチの付け替えが可能になります。|
-|ロータリーエンコーダ|1||
+|ロータリーエンコーダ|1|親指に近いキーにロータリーエンコーダを取り付けることができます。
 |LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
 
 ## 組み立て方
