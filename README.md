@@ -52,6 +52,7 @@ LED underglow is also available.
 ### 1. トッププレートとPCBを切り離す
 
 トッププレートとPCBが結合しているので、これを切り離します。  
+(場合によっては切り離し済みのケースがあります。)  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8835.jpg?raw=true" width="600px">
 
 基板を接続部の折れ線に沿って曲げると切り離せます。  
