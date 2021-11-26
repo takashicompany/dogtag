@@ -153,7 +153,7 @@ TRRSソケットは、分割キーボードとして利用する場合にキー�
 Pro Microはキーボードの頭脳となる部分です。  
 キースイッチが押されたことを検知して、PCにキーの入力を伝えます。  
 Pro MicroをPCBに固定する際は[コンスル](https://shop.yushakobo.jp/products/31)ーという部品を用いるのがオススメです。  
-コンスルーを使うと、Pro Microを基板から楽に取り外せるので、メンテナンスがしやすかったり、他の自作キーボードに使い回すことが容易になります。
+コンスルーを使うと、Pro Microを基板から楽に取り外せるので、メンテナンスがしやすかったり、他の自作キーボードに使い回すことが容易になります。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8879.jpg?raw=true" width="600px">
 
 [コンスルーがはんだ付けされたものが遊舎工房さんで販売されている](https://shop.yushakobo.jp/products/a0500ph?variant=37665498497185)ので、難しそう…と感じた方は購入するのもアリだと思います。
@@ -176,14 +176,14 @@ Pro Microをはんだ付けします。
 
 ### 7. キースイッチのはんだ付け
 
-最後にキースイッチを取り付けます。  　　
+キースイッチを取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8887.jpg?raw=true" width="600px">
 
 キースイッチの取り付け方は2種類あります。
 
 #### a. キースイッチを直にはんだ付けする場合
 
-キースイッチをトッププレートに挿し込みます。
+キースイッチをトッププレートに挿し込みます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8889.jpg?raw=true" width="600px">
 
 キースイッチの足がはんだ付け穴(周りが銀箔になっている)から出ていることを確認します。　　
@@ -192,7 +192,7 @@ Pro Microをはんだ付けします。
 キースイッチの足をはんだ付けします。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8891.jpg?raw=true" width="600px">
 
-#### MXソケットを使う場合  
+#### b. MXソケットを使う場合  
 
 MXソケットをPCBにはんだ付けし、キースイッチをMXソケットで固定する方式です。  
 手間が増えますが、キースイッチを付け替えられることがメリットです。  
