@@ -227,7 +227,10 @@ MXソケットをピンセットで抑えながら、予備ハンダを溶かし
 ### 10. ファームウェアの書き込み
 
 ファームウェアは[Remap](https://remap-keys.app/catalog/1vSyBflE9L18u1AavBH4/firmware)から書き込めます。  
+キーボードをPCに接続し、GoogleChromeで上述したサイトを開き「Flash」をクリックするとファームウェアの書き込みが始まります。  
+![image](https://user-images.githubusercontent.com/4215759/143573907-80bfd6d5-ab7e-43f7-891c-7e50e6fe353c.png)
 
-Remapでのキーマップ
-## 必要な部品ｎお
-## 必要な部品
+Remapでのキーマップの書き換え方は[こちら](https://salicylic-acid3.hatenablog.com/entry/remap-manual)。
+
+
+
