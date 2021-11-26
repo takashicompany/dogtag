@@ -170,30 +170,51 @@ Pro Microをはんだ付けします。
 トッププレートとPro Microがぶつかってしまうことがあるので、正しく挿されているか側面から確認するとミスを避けられます。 
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8885.jpg?raw=true" width="600px">
 
-もう片方もはんだ付けします。  
+全ての端子をはんだ付けできたら完了です。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8886.jpg?raw=true" width="600px">
 
 
 ### 7. キースイッチのはんだ付け
+
+最後にキースイッチを取り付けます。  　　
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8887.jpg?raw=true" width="600px">
 
+キースイッチの取り付け方は2種類あります。
+
+#### a. キースイッチを直にはんだ付けする場合
+
+キースイッチをトッププレートに挿し込みます。
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8889.jpg?raw=true" width="600px">
 
+キースイッチの足がはんだ付け穴(周りが銀箔になっている)から出ていることを確認します。　　
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8890.jpg?raw=true" width="600px">
 
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8891jpg?raw=true" width="600px">
+キースイッチの足をはんだ付けします。  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8891.jpg?raw=true" width="600px">
 
-MXソケットを使う場合  
+#### MXソケットを使う場合  
+
+MXソケットをPCBにはんだ付けし、キースイッチをMXソケットで固定する方式です。  
+手間が増えますが、キースイッチを付け替えられることがメリットです。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8894.jpg?raw=true" width="600px">
+
+MXソケットのプリントのうち片方のはんだ付け箇所に事前にはんだを載せておきます。(予備ハンダというそうです。)  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8896.jpg?raw=true" width="600px">
 
+MXソケットをピンセットで抑えながら、予備ハンダを溶かしながらMXソケットの片方をはんだ付けします。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8897.jpg?raw=true" width="600px">
 
+もう一方のはんだ付け箇所もはんだ付けして完了です。  
+表面からキースイッチをMXソケットに挿し込みます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8898.jpg?raw=true" width="600px">
 
-
+9箇所にキースイッチを挿し込めば完了です。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8900.jpg?raw=true" width="600px">
 
 ### 8. ゴム足を付ける
+
+ゴム足をつけて完成です。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8902.jpg?raw=true" width="600px">
+
+底面に取り付けます。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8903.jpg?raw=true" width="600px">
