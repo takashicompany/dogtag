@@ -135,6 +135,7 @@ TRRSソケットは、分割キーボードとして利用する場合にキー�
 ### 5. トッププレートの取り付け  
 
 トッププレートを取り付けます。  
+**取り付けるPro Microによっては、トッププレートと干渉してしまう場合があるので、必要に応じてヤスリなどで削るとスムーズに取り付けられるかと思います。**  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8868.jpg?raw=true" width="600px">
 
 取り付けにはネジとスペーサーを使用します。  
