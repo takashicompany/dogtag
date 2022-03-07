@@ -46,6 +46,7 @@ LED underglow is also available.
 |LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
 
 ## 組み立て方
+[![alt設定](http://img.youtube.com/vi/5uZxdYJqcw4/0.jpg)](https://www.youtube.com/watch?v=5uZxdYJqcw4)
 
 以下の組み立て方は左手用になります。
 右手側の場合は基板を裏返して組み立ててください。
