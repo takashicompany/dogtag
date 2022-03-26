@@ -241,7 +241,7 @@ https://github.com/qmk/qmk_firmware/pull/15259
 
 ### 11. 自慢する
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
-Twitterのハッシュタグは`#DogTag_KBD`を付けていただけば幸いです。  
+Twitterのハッシュタグは`#DogTagMacroPad`を付けていただけば幸いです。  
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
 
 また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
