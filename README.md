@@ -43,7 +43,7 @@ LED underglow is also available.
 |コンスルー|2|Pro Microに取り付けます。|
 |MXソケット|9|キースイッチの付け替えが可能になります。|
 |ロータリーエンコーダ|1|親指に近いキーにロータリーエンコーダを取り付けることができます。
-|LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
+|LED(SK6812MINI-E)|4|キーボードが光ります。|
 
 ## 組み立て方
 [![alt設定](http://img.youtube.com/vi/5uZxdYJqcw4/0.jpg)](https://www.youtube.com/watch?v=5uZxdYJqcw4)
