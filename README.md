@@ -14,7 +14,11 @@ It is reversible and can be used as a split macro pad by connecting two units wi
 Other features include a rotary encoder and MX sockets for hot-swapping of keyswitches.  
 LED underglow is also available.  
 
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/04.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/15.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/08.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/12.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/04.jpg?raw=true" width="400px">
 
 ## 必要な部品
 
