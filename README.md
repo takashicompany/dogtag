@@ -14,7 +14,11 @@ It is reversible and can be used as a split macro pad by connecting two units wi
 Other features include a rotary encoder and MX sockets for hot-swapping of keyswitches.  
 LED underglow is also available.  
 
-<img src="https://github.com/takashicompany/dogtag/blob/master/images/04.jpg?raw=true" width="600px">
+
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/15.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/08.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/12.jpg?raw=true" width="400px">
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/04.jpg?raw=true" width="400px">
 
 ## 必要な部品
 
@@ -43,7 +47,7 @@ LED underglow is also available.
 |コンスルー|2|Pro Microに取り付けます。|
 |MXソケット|9|キースイッチの付け替えが可能になります。|
 |ロータリーエンコーダ|1|親指に近いキーにロータリーエンコーダを取り付けることができます。
-|LED(WS2812B)|3|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
+|LED(SK6812MINI-E)|4|キーボードが光ります。|
 
 ## 組み立て方
 [![alt設定](http://img.youtube.com/vi/5uZxdYJqcw4/0.jpg)](https://www.youtube.com/watch?v=5uZxdYJqcw4)
@@ -241,7 +245,7 @@ https://github.com/qmk/qmk_firmware/pull/15259
 
 ### 11. 自慢する
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
-Twitterのハッシュタグは`#DogTag_KBD`を付けていただけば幸いです。  
+Twitterのハッシュタグは`#DogTagMacroPad`を付けていただけば幸いです。  
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
 
 また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
