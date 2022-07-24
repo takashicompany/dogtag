@@ -143,6 +143,9 @@ TRRSソケットは、分割キーボードとして利用する場合にキー�
 **取り付けるPro Microによっては、トッププレートと干渉してしまう場合があるので、必要に応じてヤスリなどで削るとスムーズに取り付けられるかと思います。**  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8868.jpg?raw=true" width="600px">
 
+ネジが2種類同梱されている場合は、左の頭が小さいネジはトッププレート側(表側)、右の頭が大きいネジはボトムプレート側(底面側)に使用します。  
+<img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_0932.jpg?raw=true" width="600px">
+
 取り付けにはネジとスペーサーを使用します。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8871.jpg?raw=true" width="600px">
 
