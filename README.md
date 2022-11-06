@@ -137,6 +137,16 @@ TRRSソケットは、分割キーボードとして利用する場合にキー�
 ひっくり返して、リセットスイッチと同様にはんだ付けを行います。  
 <img src="https://github.com/takashicompany/dogtag/blob/master/images/build/IMG_8867.jpg?raw=true" width="600px">
 
+### 4.5 LEDの取り付け
+
+(LEDを取り付けない方は、この項目はスキップして問題ありません。)
+
+Rev2以降の基板ではSK6812MINI-Eを取り付け、DogTagを光らせることができます。
+
+下の写真と同じく、PCBの底面に取り付けることで表側へLEDの光が届くようになります。  
+![image](https://user-images.githubusercontent.com/4215759/200169924-44a087c9-9a74-48f8-8602-8b83d218de71.png)
+
+
 ### 5. トッププレートの取り付け  
 
 トッププレートを取り付けます。  
